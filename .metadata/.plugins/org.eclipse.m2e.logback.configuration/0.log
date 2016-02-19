@@ -107,3 +107,63 @@
 2016-02-18 18:09:12,580 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\main\resources
 2016-02-18 18:09:12,581 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-02-18 18:09:12,581 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\test\resources
+2016-02-18 19:52:34,355 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:34,358 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\main\resources
+2016-02-18 19:52:34,360 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:34,361 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\test\resources
+2016-02-18 19:52:35,529 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kerstein-neuhoff:game:0.0.1-SNAPSHOT @ C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\pom.xml.
+2016-02-18 19:52:35,829 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:35,830 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\main\resources
+2016-02-18 19:52:35,831 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:35,831 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\test\resources
+2016-02-18 19:52:36,418 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kerstein-neuhoff:game:0.0.1-SNAPSHOT @ C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\pom.xml.
+2016-02-18 19:52:36,541 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:36,541 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\main\resources
+2016-02-18 19:52:36,543 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:36,543 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\test\resources
+2016-02-18 19:52:37,316 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,316 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\WordSearch\src\main\resources
+2016-02-18 19:52:37,317 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,317 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\WordSearch\src\test\resources
+2016-02-18 19:52:37,389 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,389 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\main\resources
+2016-02-18 19:52:37,390 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,390 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\test\resources
+2016-02-18 19:52:37,525 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,525 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\main\resources
+2016-02-18 19:52:37,525 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,526 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\test\resources
+2016-02-18 19:52:37,789 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: madLibs:fg.madLibs:0.0.1-SNAPSHOT @ C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\pom.xml.
+2016-02-18 19:52:37,958 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,958 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\main\resources
+2016-02-18 19:52:37,958 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:37,959 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\test\resources
+2016-02-18 19:52:38,178 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: madLibs:fg.madLibs:0.0.1-SNAPSHOT @ C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\pom.xml.
+2016-02-18 19:52:38,260 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:38,260 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\main\resources
+2016-02-18 19:52:38,261 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:38,261 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\test\resources
+2016-02-18 19:52:38,523 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:38,523 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\main\resources
+2016-02-18 19:52:38,524 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:38,524 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\test\resources
+2016-02-18 19:52:38,558 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:38,558 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\main\resources
+2016-02-18 19:52:38,559 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:52:38,559 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\test\resources
+2016-02-18 19:56:41,250 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,250 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\main\resources
+2016-02-18 19:56:41,250 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,250 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\Chutes_and_Ladders\src\test\resources
+2016-02-18 19:56:41,256 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,256 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\WordSearch\src\main\resources
+2016-02-18 19:56:41,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\WordSearch\src\test\resources
+2016-02-18 19:56:41,260 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,260 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\main\resources
+2016-02-18 19:56:41,261 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,261 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\fg.madLibs\src\test\resources
+2016-02-18 19:56:41,265 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,265 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\main\resources
+2016-02-18 19:56:41,266 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-18 19:56:41,266 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\test\resources
