@@ -1,0 +1,24 @@
+[submodule "othello"]
+	path = othello
+	url = git@github.com:chavashapiro/othello.git
+[submodule "Chutes_and_Ladders"]
+	path = Chutes_and_Ladders
+	url = git@github.com:ahuvaN/Chutes_and_Ladders.git
+[submodule "glazer-englard-TETRIS"]
+	path = glazer-englard-TETRIS
+	url = git@github.com:cglazer/glazer-englard-TETRIS.git
+[submodule "Sudoku"]
+	path = Sudoku
+	url = git@github.com:ljaffa/Sudoku.git
+[submodule "mastermind"]
+	path = mastermind
+	url = git@github.com:lyarmark/mastermind.git
+[submodule "WordSearch"]
+	path = WordSearch
+	url = git@github.com:cyoffe/WordSearch.git
+[submodule "ShoppingList"]
+	path = ShoppingList
+	url = git@github.com:chayaturner/ShoppingList.git
+[submodule "fg.madLibs"]
+	path = fg.madLibs
+	url = git@github.com:LGott/fg.madLibs.git
