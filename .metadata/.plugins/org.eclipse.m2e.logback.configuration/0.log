@@ -167,3 +167,12 @@
 2016-02-18 19:56:41,265 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\main\resources
 2016-02-18 19:56:41,266 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-02-18 19:56:41,266 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\mastermind\src\test\resources
+2016-02-25 18:02:28,021 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: dusowitz-neustadt:goupProject-colorSudoku:0.0.1-SNAPSHOT @ C:\Users\aschwimm\Documents\students-spring-2016-projects-1\groupProject-colorSudoku\pom.xml.
+2016-02-25 18:02:28,852 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-25 18:02:28,852 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\groupProject-colorSudoku\src\main\resources
+2016-02-25 18:02:28,853 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-25 18:02:28,853 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\groupProject-colorSudoku\src\test\resources
+2016-02-25 18:02:30,110 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-25 18:02:30,111 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\groupProject-colorSudoku\src\main\resources
+2016-02-25 18:02:30,111 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-25 18:02:30,112 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aschwimm\Documents\students-spring-2016-projects-1\groupProject-colorSudoku\src\test\resources
