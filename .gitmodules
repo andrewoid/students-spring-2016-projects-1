@@ -22,3 +22,6 @@
 [submodule "fg.madLibs"]
 	path = fg.madLibs
 	url = git@github.com:LGott/fg.madLibs.git
+[submodule "groupProject-colorSudoku"]
+	path = groupProject-colorSudoku
+	url = git@github.com:shaindyNeustadt/groupProject-colorSudoku.git
